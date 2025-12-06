@@ -1,6 +1,10 @@
 # MyLLM
+## 链接
+1. 模型测评: https://artificialanalysis.ai/models
 
-模型对比: https://artificialanalysis.ai/models
+## 名词解释
+1. AGI：Artificial General Intelligence  人工通用智能
+
 
 
 ## 大模型的知识
