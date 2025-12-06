@@ -28,3 +28,24 @@
 6. 蒸馏(Distillation): 生成数据来微调其他模型的技术
 7. 数据标注(Data Annotation):  机器学习的前提和基础, 目标是为模型提供清晰/结构化的输入, 帮助其学习特定任务或改进生成质量
 8. 预训练(Pre-Training):  正式训练之前, 先在一个大规模的、通用的数据集上对模型进行初步训练的过程, 帮助模型学习到广泛的知识和特征表示, 从而在后续的任务中更好地泛化和迁移这些知识
+
+
+
+
+
+##  AI Code | LLM Code
+1. GPT-5.1-Codex-Max
+2. Google Antigravity  gemini
+3. Claude Code
+4. Trae
+5. Cursor
+6. Vibe Coding
+7. Claude Opus 4.5
+
+
+
+
+
+##  命令行
+1. cd cd /d D:\MyChat\MyTraeChat  跨盘路径
+2. 
