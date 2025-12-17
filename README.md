@@ -46,6 +46,39 @@
 
 
 
+##  Google AI产品
+1. Gimini
+2. Gemma
+3. Veo
+4. Imagen
+5. Lyria
+6. Gemini CLI
+7. Colab
+8. Jules
+9. Gemini Code Assist
+10. Gemini in Android Studio
+11. Chrome DevTools
+12. NotebookLM
+13. Google AI Studio
+14. Vertex AI
+15. Google Antigravity
+16. gmail cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##  命令行
 1. cd cd /d D:\MyChat\MyTraeChat  跨盘路径
 2. 
